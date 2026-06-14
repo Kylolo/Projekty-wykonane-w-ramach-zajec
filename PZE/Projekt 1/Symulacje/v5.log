@@ -1,0 +1,21 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\krys1\Desktop\studia\sem6\PZE\projekt\v5.net
+Start Time: Thu Apr  2 16:26:49 2026
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.056 seconds.
+
+Files loaded:
+C:\Users\krys1\Desktop\studia\sem6\PZE\projekt\v5.net
+C:\Users\krys1\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\krys1\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\krys1\Desktop\studia\programy\lib\BD139.lib
+C:\Users\krys1\Desktop\studia\programy\lib\BD140.lib
+
+wzm_max: MAX(V(wy)/V(we))=(40.5915362212dB,0.036301703767°) FROM 1 TO 1000000
+f_dolna=10.9016316553 FROM 0 TO 10.9016316553
+f_gorna=638238.034972 FROM 0 TO 638238.034972
